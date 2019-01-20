@@ -1,6 +1,6 @@
 token=NDcyMTYwOTkyMDU1Mzk0MzE0.Do7GFA.2lGn6geYDrq9kfHNx0L0Fh5__6c
-owner=474200581163057153
-prefix=6
-game=Type 6help
+owner=321960094101143552
+prefix=Y
+game=Type Yhelp
 stayinchannel=true
 songinstatus=true
